@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Test</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!--row_question.xml-->
+    <string name="row_question_name">Name: </string>
+
+</resources>
